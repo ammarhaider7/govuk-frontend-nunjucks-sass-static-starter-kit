@@ -5,6 +5,7 @@
 const path = require('path');
 const fs = require('fs');
 const NunjucksWebpackPlugin = require('nunjucks-webpack-plugin');
+const nunjucks = require('nunjucks');
 
 const directories = []
 function walkDir(dir, parrent = '') {
