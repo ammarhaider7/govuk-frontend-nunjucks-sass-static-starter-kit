@@ -1,3 +1,5 @@
+![GOV.UK logo](https://user-images.githubusercontent.com/33695049/91168357-6bd49700-e6cd-11ea-92ec-378fcc83dd6e.png)
+
 ## Overview
 
 Static site starter template using the [GOV.UK Frontend package](https://frontend.design-system.service.gov.uk/#gov-uk-frontend). Uses webpack for bundling, nunjucks as the HTML template engine and includes support for Babel, TypeScript and Sass.
