@@ -4,6 +4,7 @@ Static site starter template using the [GOV.UK Frontend package](https://fronten
 
 ## Quickstart
 
+`npm install` to install dependencies
 `npm run serve` to start the dev server (hot reloading is included)  
 `npm run build` to create a production build of all the static files and assets in the /dist/ folder
 
